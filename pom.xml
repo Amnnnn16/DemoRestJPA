@@ -14,7 +14,7 @@
 	<name>DemoKedar</name>
 	<description>This is my first Springboot project</description>
 	<properties>
-		<java.version>11</java.version> <!-- Update Java version to 11 -->
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
